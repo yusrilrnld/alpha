@@ -5,7 +5,7 @@ exports.wait = () => {
     return `⏳ Mohon tunggu sebentar~`
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Berhasil Sayang💕
 }
 
 exports.err = () => {
@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Alphabot :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -110,7 +110,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ < evaluate
 ├ > evaluate
 ├ $ exec
-├ => exec
+├ 
 ├ ${prefix}setmenu [query]
 ├ ${prefix}setmenu templateLocation
 ├ ${prefix}setmenu templateTenor
@@ -783,7 +783,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
+├ Yusrilrnld
 ├ Ferdi
 ├ DikaArdnt
 ├ Mhankbarbar
