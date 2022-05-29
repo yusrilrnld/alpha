@@ -13,12 +13,12 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read pesan / message
-global.autorecording = false //status auto merekam ( auto record )
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "Alphabot" //namabot kalian
+global.botname = "IRENE-BOT" //namabot kalian
 global.ownername= "ᴹᴿ᭄Yusril×፝֟͜u×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/tanboykun" //bebas asal jan hapus
@@ -30,8 +30,8 @@ global.ownernomerr = "+6282252875751" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282252875751","6289520415063","6282252875751"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot' //sticker wm ubah
+global.owner = ["6282252875751","6281288502273","6282252875751"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©IRENE-BOT' //sticker wm ubah
 global.author = 'Di Buat Oleh Yusril' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
