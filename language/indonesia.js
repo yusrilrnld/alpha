@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Irenebot-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -788,9 +788,9 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Ferdi
 ├ DikaArdnt
 ├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
+├ noname
+├ noname
+├ noname
 ├ Penyedia Module
 ╰❒ And All Support
     `
